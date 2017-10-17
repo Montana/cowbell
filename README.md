@@ -8,4 +8,4 @@ Get a push notification from Prowl when someone has a "verified" account that en
  "Result": "Success"
 }</pre>
 
-Work in progress 
+Work in progress. 
